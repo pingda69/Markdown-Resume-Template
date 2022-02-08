@@ -4,14 +4,14 @@
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：28  
-* 手 机：+491748806138 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：pingda69@gmail.com    
+* 性 别：男 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：28  
+* 手 机：+491748806138 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  邮 箱：pingda69@gmail.com    
 * 专 业：机电一体化与机器人 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
 
 ## 工作及教育经历
        
-* 汉诺威大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018.10~2022.1&emsp;&emsp;&emsp;&emsp; 机电一体化与机器人-研究生
-* 赛意法微电子有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2015.7~2016.7&emsp;&emsp;&emsp;&emsp; 测试工程师-E3金盾部门         
+* 汉诺威大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018.10~2022.1&emsp;&emsp;&emsp;&ensp; 机电一体化与机器人-研究生
+* 赛意法微电子有限公司&emsp;&emsp;&emsp;&emsp;&emsp;2015.7~2016.7&emsp;&emsp;&emsp;&emsp; 测试工程师-E3金盾部门         
 * 华中科技大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2011.9~2015.6&emsp;&emsp;&emsp;&emsp; 测控技术与仪器专业-本科  
 
 ## 专业技能
