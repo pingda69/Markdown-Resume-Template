@@ -5,8 +5,8 @@
 ## 个人信息 
 
 * 性 别：男 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：28  
-* 手 机：+491748806138 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  邮 箱：pingda69@gmail.com    
-* 专 业：机电一体化与机器人 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* 手 机：+491748806138 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  邮 箱：540887499@qq.com    
+* 专 业：机电一体化与机器人 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：算法工程师
 
 ## 工作及教育经历
        
@@ -33,5 +33,5 @@
     * 技术难点是同时对多张图像进行配准。
 
 ## 其他信息 
-* 爱好摄影
-* 协助组织过部门年会 
+* 爱好摄影旅行
+* 有部门年会组织经验 
